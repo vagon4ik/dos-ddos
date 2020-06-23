@@ -4,7 +4,8 @@
 <br>Немного по статьям УК РФ:Исходя из сложившейся практики, участники Ддос-атаки могут попасть под следующие статьи. Заказчики. Их действия обычно подпадают под статью 272 УК РФ — неправомерный доступ к охраняемой законом компьютерной информации. Наказание: лишение свободы до семи лет или штраф до 500 тысяч рублей или 7 лет тюрьмы</br>
 # Как установить?
 <br>Легко)</br>
-<b>Если у вас Android/<b> - скачать <a href="https://play.google.com/store/apps/details?id=com.termux&hl=ru">Termux из Google Play</a>, открыть  его и прописать команды ниже</br>
+<b>Если у вас Android<b> - скачать <a href="https://play.google.com/store/apps/details?id=com.termux&hl=ru">Termux из Google Play</a>, открыть  его и прописать команды ниже</br>
+  
 • <code>apt update</code><br>
 • <code>apt upgrade</code><br>
 • <code>apt install git</code>
@@ -12,10 +13,8 @@
 • <code>apt install python3</code>
 • <code>git clone https://github.com/vagon4ik/dos-ddos</code><br>
 • <code>cd dos-ddos</code>
-• <code>python3 dos-ddos.py</code>
-  
-  
-  <b>Если у вас iOS</a> - скачать <a href="https://apps.apple.com/ru/app/testflight/id899247664">Testflight из App Store</a>, после чего присоедениться к тестированию <a href="https://testflight.apple.com/join/97i7KM8O">iSH в Testflight</a> и прописать команды ниже:<br>
+• <code>python3 dos-ddos.py</code> 
+<b>Если у вас iOS</a> - скачать <a href="https://apps.apple.com/ru/app/testflight/id899247664">Testflight из App Store</a>, после чего присоедениться к тестированию <a href="https://testflight.apple.com/join/97i7KM8O">iSH в Testflight</a> и прописать команды ниже:<br>
 • <code>apk update</code><br>
 • <code>apk upgrade</code><br>
 • <code>apk add git</code><br>
